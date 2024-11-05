@@ -74,13 +74,13 @@ Seize the chance to become a top-tier **Rust** player. With **Rust Hack 2024**, 
 </div>
 
 <div align="center">
-  <img src="https://imgur.com/undefined" width="550" height="300" />
-  <img src="https://imgur.com/eyL69RQ" width="550" height="300" />
-  <img src="https://imgur.com/6ToWppm" width="550" height="300" />
-  <img src="https://imgur.com/CwkRPVS" width="550" height="300" />
-  <img src="https://imgur.com/PSIQuFO" width="550" height="300" />
-  <img src="https://imgur.com/z8mdkbU" width="550" height="300" />
-  <img src="https://imgur.com/hIvm9vG" width="550" height="300" />
+  <img src="https://i.imgur.com/undefined.jpg" width="550" height="300" />
+  <img src="https://i.imgur.com/eyL69RQ.jpg" width="550" height="300" />
+  <img src="https://i.imgur.com/6ToWppm.jpg" width="550" height="300" />
+  <img src="https://i.imgur.com/CwkRPVS.jpg" width="550" height="300" />
+  <img src="https://i.imgur.com/PSIQuFO.jpg" width="550" height="300" />
+  <img src="https://i.imgur.com/z8mdkbU.jpg" width="550" height="300" />
+  <img src="https://i.imgur.com/hIvm9vG.jpg" width="550" height="300" />
 </div>
 
 ## 🔗 Tags
